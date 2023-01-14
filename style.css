@@ -153,5 +153,9 @@ color:#AEAEAE;
       .courses{
         justify-items: center;
       }
+      .section-title{
+        display: flex;
+        justify-content: center;
+      }
     }
   
